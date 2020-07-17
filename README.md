@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, my pinned repos say all about me!
 
 <!--
 **Ifihan/Ifihan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
